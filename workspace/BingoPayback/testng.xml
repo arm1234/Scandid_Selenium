@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="Tests2.Test10_8_FooterStoreLocator"/>
+      <class name="Tests1.Test7_1_ComparePricesButton"/>
+      <class name="Tests2.Test10_2_FooterAboutUs"/>
+      <class name="Tests1.Test7_7_ShopNowButton"/>
+      <class name="Tests2.Test10_10_FooterOfferZone"/>
+      <class name="Tests.Test6_3_OfferzoneOffersRechargeCoupons"/>
+      <class name="Tests2.Test10_15_FooterTermsConditions"/>
+      <class name="Tests.Test1_1_BingoLink"/>
+      <class name="Tests.Test2_1_PaybackLogo"/>
+      <class name="Tests.Test6_10_FeaturedBooks"/>
+      <class name="Tests.Test6_11_TelevisionDeals"/>
+      <class name="Tests1.Test7_6_FacebookTwitterButtons"/>
+      <class name="Tests2.Test10_11_FooterDiscountCoupons"/>
+      <class name="Tests.Test6_7_OnlinePartners"/>
+      <class name="Tests2.Test10_12_FooterPrivacyPolicy"/>
+      <class name="Tests2.Test10_5_FooterOnline"/>
+      <class name="Tests2.Test10_3_FooterCareers"/>
+      <class name="Tests2.Test10_14_FooterShipment"/>
+      <class name="Tests.Test6_13_PopularTablets"/>
+      <class name="Tests1.Test7_2_Specifications"/>
+      <class name="Tests2.Test10_1_FooterContactUs"/>
+      <class name="Tests1.Test7_3_AvailableFromMerchantLink"/>
+      <class name="Tests.Test6_9_HotDeals"/>
+      <class name="Tests2.Test10_4_FooterFAQ"/>
+      <class name="Tests1.Test7_10_ShowMoreLessOffersClickable"/>
+      <class name="Tests2.Test10_13_FooterUserAccount"/>
+      <class name="Tests1.Test7_4_AddToWishlistButton"/>
+      <class name="Tests.Test6_1_CategoriesLinkApplePhone"/>
+      <class name="Tests.Test6_8_RecommendedCategories"/>
+      <class name="Tests2.Test10_6_FooterRewards"/>
+      <class name="Tests.Test5_1_LoginLogout"/>
+      <class name="Tests1.Test7_5_ProductImage"/>
+      <class name="Tests1.Test8_4_CheckLoginFunctionality"/>
+      <class name="Tests.Test6_4_FacebookTwitterButtons"/>
+      <class name="Tests1.Test7_11_HomeLinkClickable"/>
+      <class name="Tests2.Test10_9_FooterRechargeOffers"/>
+      <class name="Tests.Test6_14_QuickLinks"/>
+      <class name="Tests.Test6_2_FrequentlySearchedLink"/>
+      <class name="Tests2.Test10_7_FooterPartners"/>
+      <class name="Tests.Test3_1_SearchMenuButton"/>
+      <class name="Tests1.Test7_9_RelatedProducts"/>
+      <class name="Tests1.Test7_12_GoToTopButton"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
